@@ -19,4 +19,4 @@ kubernetes health check using service
 
 
 ## show:
-![](demo.png)
+![demo](./demo.png)

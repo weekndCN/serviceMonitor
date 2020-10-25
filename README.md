@@ -17,3 +17,6 @@ kubernetes health check using service
 - 5 * Seconds do one health check.Concurrency http get request
 - send every 20 * Seconds if continues' error happend
 
+
+## show:
+[](demo.png)
